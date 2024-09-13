@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "303252933790",
+    "project_id": "my-first-app-to-do-vlvf8w",
+    "storage_bucket": "my-first-app-to-do-vlvf8w.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:303252933790:android:f866f6c88c405fa8cd3f8f",
+        "android_client_info": {
+          "package_name": "com.mycompany.myfirstapptodo"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAPLRAOkwC-B0JLogX9hGubNue7vzGnjCA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
